@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    padding: 15px;
+}
+
+h3{
+    font-variant: small-caps;
+    font-size: 30px;
+    color: darkslategray;
+}
+
+ul{
+    color: chocolate;
+}
+
+a{
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+p{
+    font-family: "Lucida Console", Monaco, monospace;
+}

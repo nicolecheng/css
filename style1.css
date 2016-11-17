@@ -1,0 +1,22 @@
+
+body{
+    background-color: forestgreen;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif
+}
+
+h3{
+    text-align: left;
+}
+
+h2{
+    color: orange;
+}
+
+p{
+    font-size: 20px;
+}
