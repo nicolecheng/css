@@ -1,9 +1,19 @@
+/*
+opacity:
+overflow: 
+text-shadow:
+
+:hover {
+    css declarations;
+} 
+*/
+
 
 body{
     background-color: forestgreen;
 }
 
-h1{
+h1 {
     color: white;
     text-align: center;
     font-family: Impact, Charcoal, sans-serif
@@ -17,10 +27,19 @@ h2{
     color: orange;
 }
 
-p{
+p:hover{
     font-size: 20px;
 }
 
+ul:hover {
+    font-size: 20px;
+}
+
+ol:hover {
+    font-size:20px;
+}
+
+/*
 .content {
     background-color: black;
     color: blanchedalmond;
@@ -32,4 +51,4 @@ p{
 
 #head1 {
     font-size: 20px;
-}
+}*/
