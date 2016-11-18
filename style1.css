@@ -21,6 +21,11 @@ p{
     font-size: 20px;
 }
 
+.content {
+    background-color: black;
+    color: blanchedalmond;
+}
+
 .extreme {
     border: 2px solid goldenrod;
 }

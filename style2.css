@@ -1,26 +1,39 @@
-body{
+body {
     background-color: burlywood;
 }
 
-h1{
+#head1 {
     padding: 15px;
 }
 
-h3{
+h3 {
     font-variant: small-caps;
-    font-size: 30px;
+    font-size: 40px;
+}
+
+.navzone {
     color: darkslategray;
 }
 
-ul{
+#tehlulz {
+    font-style: italic;
+    font-size: 18px;
+}
+
+ul {
     color: chocolate;
 }
 
-a{
+a {
     color: dodgerblue;
     font-weight: bold;
 }
 
-p{
+.prose {
     font-family: "Lucida Console", Monaco, monospace;
+}
+
+.extreme {
+    font-weight: bold;
+    font-stretch: expanded;
 }
