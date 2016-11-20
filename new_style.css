@@ -1,0 +1,43 @@
+
+body{
+    background-color: #EFF1ED;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: #373D20;
+}
+
+h1 {
+    color: #766153;
+    font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 5px 5px #BCBD8B;				      
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    color: #766153;
+    text-decoration: none;
+}
+
+.headers {
+    font-family: Palatino Linotype;
+    color: #373D20;
+    text-align: center;
+    font-style: italic;
+    font-variant: smallcaps;
+    font-weight: bold;
+    text-shadow: 3px 3px burlywood;
+}
+
+h1:hover{
+    opacity: .3;
+}
+
+.paragraph {
+    color: #373D20;
+    border: 2px solid #717744;
+    font-size: 17px;
+    padding: 30px;
+    text-align: left;
+    text-overflow:ellipsis;
+}

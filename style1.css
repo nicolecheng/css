@@ -1,14 +1,3 @@
-/*
-opacity:
-overflow: 
-text-shadow:
-
-:hover {
-    css declarations;
-} 
-*/
-
-
 body{
     background-color: forestgreen;
 }
@@ -27,19 +16,6 @@ h2{
     color: orange;
 }
 
-p:hover{
-    font-size: 20px;
-}
-
-ul:hover {
-    font-size: 20px;
-}
-
-ol:hover {
-    font-size:20px;
-}
-
-/*
 .content {
     background-color: black;
     color: blanchedalmond;
@@ -51,4 +27,4 @@ ol:hover {
 
 #head1 {
     font-size: 20px;
-}*/
+}
